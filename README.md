@@ -7,11 +7,11 @@
 </h4>
 
 <div align="center">
-  <img alt="GitHub language count" src="">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LauriRodrigues/Form-Mentoria">
 
-  <img alt="GitHub repo size" src="">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LauriRodrigues/Form-Mentoria">
   
-  <img alt="GitHub last commit" src="">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LauriRodrigues/Form-Mentoria?color=1280bf">
   
   <a href="https://laurirodrigues.github.io/Form-Mentoria/"> ▶️ Visualizar Deploy </a>
 </div>
@@ -31,4 +31,4 @@
 
 <h4>💻 Desktop </h4>
 
-<img alt="Versão Desktop" title="Desktop" src="./readme/Desktop.png" width="60%">
+<img alt="Versão Desktop" title="Desktop" src="./readme/Desktop.png" width="70%">
